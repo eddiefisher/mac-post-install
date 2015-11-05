@@ -16,6 +16,7 @@ openssl
 libyaml
 z
 rvm + bundler
+elixir + phoenix framework
 ```
 
 symlink for Sublime Texteditor
